@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itrax_react/static/css/main.31d0f920.css",
+    "main.js": "/itrax_react/static/js/main.25ccbd5a.js",
+    "index.html": "/itrax_react/index.html",
+    "main.31d0f920.css.map": "/itrax_react/static/css/main.31d0f920.css.map",
+    "main.25ccbd5a.js.map": "/itrax_react/static/js/main.25ccbd5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d0f920.css",
+    "static/js/main.25ccbd5a.js"
+  ]
+}

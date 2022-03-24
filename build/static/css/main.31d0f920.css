@@ -1,0 +1,2 @@
+.main{min-height:calc(100vh - 70px)}.footer,.header{background-color:#8a2be2;color:#fff;height:35px;padding:10px;text-align:center}*{box-sizing:border-box;margin:0;padding:0}a.active{color:red}header{background-color:brown;color:#fff;height:35px;padding:10px}header ul{display:flex;justify-content:center;list-style:none}header ul a{color:#fff;display:block;margin:0 10px}.posts a{border:1px solid gray;display:block;margin:5px;padding:10px;text-decoration:none}
+/*# sourceMappingURL=main.31d0f920.css.map*/
